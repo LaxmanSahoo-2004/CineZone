@@ -1,6 +1,6 @@
-# 🎬 Movie Zone
+# 🎬 CineZone
 
-**Movie Zone** is a responsive React web app inspired by IMDb — built using **React**, **TMDB API**, and a clean, minimal UI.  
+**CineZone** is a responsive React web app inspired by IMDb — built using **React**, **TMDB API**, and a clean, minimal UI.  
 It allows users to explore, search, and view details of movies with real-time data fetched from TMDB.
 
 ---
@@ -29,4 +29,4 @@ It allows users to explore, search, and view details of movies with real-time da
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/LaxmanSahoo-2004/Movie_Zone.git
+   git clone https://github.com/LaxmanSahoo-2004/CineZone.git
