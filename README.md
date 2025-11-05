@@ -30,3 +30,6 @@ It allows users to explore, search, and view details of movies with real-time da
 1. **Clone this repository**
    ```bash
    git clone https://github.com/LaxmanSahoo-2004/CineZone.git
+2.  🚀 Live Demo
+[Click here to view the live site](https://69085f2726707ceebb213588--phenomenal-tapioca-ac464e.netlify.app/)
+
